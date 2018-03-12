@@ -7,9 +7,7 @@ public class Parsing {
      * parsing lines and save correct result in Question
      */
     public Question analysisLine(String nextLine){
-        Question question = new Question();
-        question.setName("");
-        question.setQuestionCode(0);
+        Question question = new Question("",0 );
 
         if (nextLine.indexOf("Who is head of department ") == 0){
             question.setQuestionCode(1);

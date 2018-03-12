@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b0abd9c-ba31-416d-abc3-9051fc2559e6" name="Default" comment="some comment&#10;delete unsused libs">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_oval_oval_1_90.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/AbstractAction/Action.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/AbstractAction/Action.class" />
+    <list default="true" id="9b0abd9c-ba31-416d-abc3-9051fc2559e6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action1.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action2.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action3.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action4.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action5.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Actions/Action5.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/DBWorker.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/DBWorker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/FactoryAction.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/FactoryAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/Starter.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/Starter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/logic/Core.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/logic/Core.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/logic/Parsing.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/logic/Parsing.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/our/best/university/logic/Question.class" afterPath="$PROJECT_DIR$/target/classes/our/best/university/logic/Question.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/AbstractAction/Action.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/AbstractAction/Action.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/FactoryAction.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/FactoryAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Core.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Core.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java" afterPath="$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/university.iml" afterPath="$PROJECT_DIR$/university.iml" />
@@ -85,77 +77,30 @@
       <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Parsing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Action4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Action.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/AbstractAction/Action.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#action#0;class#Action#0" expanded="false" />
-                <element signature="docComment;method#printResult#0;class#Action#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBWorker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding>
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -199,19 +144,19 @@
         <option value="$PROJECT_DIR$/src/test/java/our/best/university/logic/TestParsing.java" />
         <option value="$PROJECT_DIR$/src/test/java/our/best/university/Actions/TestActions.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/entity/base/AbstractEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/FactoryAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/logic/Core.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/AbstractAction/Action.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/Starter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java" />
       </list>
     </option>
   </component>
@@ -369,7 +314,7 @@
   <component name="RunManager" selected="Application.Starter">
     <configuration name="All in univercity" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="univercity" />
+      <module name="university" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -656,7 +601,7 @@
       <workItem from="1520684408295" duration="995000" />
       <workItem from="1520686453666" duration="5393000" />
       <workItem from="1520768031160" duration="24408000" />
-      <workItem from="1520847515720" duration="24441000" />
+      <workItem from="1520847515720" duration="24790000" />
     </task>
     <task id="LOCAL-00001" summary="to dell some files (entity)">
       <created>1520873877035</created>
@@ -665,15 +610,19 @@
       <option name="project" value="LOCAL" />
       <updated>1520873877035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some comment&#10;delete unsused libs">
+      <created>1520875488259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520875488259</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestActions - 2018.03.12 at 18h 13m 29s.xml">
-      <configuration name="TestActions" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestActions - 2018.03.12 at 18h 18m 58s.xml">
-      <configuration name="TestActions" configurationId="JUnit" />
+    <history-entry file="All_in_univercity - 2018.03.12 at 19h 28m 00s.xml">
+      <configuration name="All in univercity" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestActions - 2018.03.12 at 18h 21m 22s.xml">
       <configuration name="TestActions" configurationId="JUnit" />
@@ -699,9 +648,12 @@
     <history-entry file="our_best_university_in_univercity - 2018.03.12 at 19h 23m 12s.xml">
       <configuration name="our.best.university in univercity" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="our_best_university_in_univercity - 2018.03.12 at 19h 27m 39s.xml">
+      <configuration name="our.best.university in univercity" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66650000" />
+    <option name="totallyTimeSpent" value="66999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -714,16 +666,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.502445" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49755502" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.49755502" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1059,54 +1012,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/FactoryAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Core.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1123,19 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/AbstractAction/Action.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1148,31 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1181,18 +1052,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/Actions/Action4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="442">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Parsing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/DBWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/our/best/university/logic/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

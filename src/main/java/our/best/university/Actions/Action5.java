@@ -30,6 +30,7 @@ public class Action5 extends Action {
     }
 
     private Action5(){
+        super();
         query = "select name, lastname from lectors\n" +
                 "WHERE name LIKE ? or lastname LIKE ?";
     }

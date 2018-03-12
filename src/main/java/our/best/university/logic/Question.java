@@ -1,6 +1,10 @@
 package our.best.university.logic;
 
 public class Question {
+
+    private String name;
+    private int questionCode = 0;
+
     public String getName() {
         return name;
     }
@@ -26,7 +30,4 @@ public class Question {
         this.name = name;
         this.questionCode = questionCode;
     }
-
-    private String name;
-    private int questionCode = 0;
 }

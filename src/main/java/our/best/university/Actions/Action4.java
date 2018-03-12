@@ -28,6 +28,7 @@ public class Action4 extends Action{
     }
 
     private Action4(){
+        super();
         query = "SELECT COUNT(degree) FROM university.lect_and_dep\n" +
                 "inner JOIN lectors on lect_and_dep.id_lector=lectors.lectorsId\n" +
                 "inner JOIN departmens on lect_and_dep.id_departmen=departmens.DepartmenId\n" +

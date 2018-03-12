@@ -28,6 +28,7 @@ public class Action1 extends Action {
     }
 
     private Action1(){
+        super();
         query = "select head from university.departmens where DepartmenName= ? ;";
     }
 

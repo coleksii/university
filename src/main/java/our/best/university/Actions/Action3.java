@@ -27,6 +27,7 @@ public class Action3 extends Action {
     }
 
     private Action3() {
+        super();
         query = "SELECT AVG(salary) FROM university.lect_and_dep\n" +
                 "inner JOIN lectors on lect_and_dep.id_lector=lectors.lectorsId\n" +
                 "inner JOIN departmens on lect_and_dep.id_departmen=Departmens.DepartmenId\n" +
