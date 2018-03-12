@@ -1,7 +1,7 @@
 # University
 
 ## You need:
-sql-server to connect wiht application.
+sql-server to connect with application.
 
 ## You may type next command:
 1)Who is head of department {department_name}
