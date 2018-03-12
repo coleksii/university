@@ -1,5 +1,7 @@
 # University
 
+A simple java project with the console interface.
+
 ## You need:
 sql-server to connect with application.
 
