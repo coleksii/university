@@ -25,9 +25,10 @@ DROP TABLE IF EXISTS `departmens`;
 CREATE TABLE `departmens` (
   `DepartmenID` int(11) NOT NULL AUTO_INCREMENT,
   `DepartmenName` varchar(45) NOT NULL,
-  `id_head` varchar(45) NOT NULL,
-  `head` varchar(45) NOT NULL,
-  PRIMARY KEY (`DepartmenID`)
+  `id_head` int(11) NOT NULL,
+  PRIMARY KEY (`DepartmenID`),
+  KEY `fk_head_idx` (`id_head`),
+  CONSTRAINT `fk_head` FOREIGN KEY (`id_head`) REFERENCES `lectors` (`lectorsID`) ON DELETE NO ACTION ON UPDATE NO ACTION
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -37,7 +38,7 @@ CREATE TABLE `departmens` (
 
 LOCK TABLES `departmens` WRITE;
 /*!40000 ALTER TABLE `departmens` DISABLE KEYS */;
-INSERT INTO `departmens` VALUES (1,'Gryffindor','2','McGonagall'),(2,'Ravenclaw','1','Dubledor'),(3,'Slytherin','4','Snape');
+INSERT INTO `departmens` VALUES (1,'Gryffindor',2),(2,'Ravenclaw',1),(3,'Slytherin',4);
 /*!40000 ALTER TABLE `departmens` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -107,4 +108,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-03-12 18:41:21
+-- Dump completed on 2018-03-13  1:44:38
