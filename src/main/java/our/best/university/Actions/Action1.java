@@ -29,17 +29,21 @@ public class Action1 extends Action {
 
     private Action1(){
         super();
-        query = "select head from university.departmens where DepartmenName= ? ;";
+        query = "SELECT name, lastname FROM university.departmens\n" +
+                "inner join lectors on id_head=lectorsid\n" +
+                "where DepartmenName=?;";
     }
 
     @Override
     protected void printResult(ResultSet resultSet, Question question){
-        String answer;
+        String name;
+        String lastname;
         boolean flag = false;
         try {
             while (resultSet.next()){
-                answer = resultSet.getString(1);
-                System.out.println("Head of " + question.getName() + " department is " + answer);
+                name = resultSet.getString(1);
+                lastname = resultSet.getString(2);
+                System.out.println("Head of " + question.getName() + " department is " + name + " " + lastname);
                 flag = true;
             }
             if (flag == false)

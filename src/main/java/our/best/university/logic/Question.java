@@ -1,13 +1,13 @@
 package our.best.university.logic;
 
     /**
-     * clas that save code of action
+     * class that save action's code
      * and name of Department or template for lectors
      */
 public class Question {
 
     private String name;
-    private int questionCode = 0;
+    private int questionCode;
 
     public String getName() {
         return name;

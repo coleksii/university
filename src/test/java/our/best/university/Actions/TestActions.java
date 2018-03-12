@@ -41,7 +41,7 @@ public class TestActions {
         Action1 action1 = Action1.getInstance();
 
         question.setName("Gryffindor");
-        String diff = "Head of Gryffindor department is McGonagall" + separator;
+        String diff = "Head of Gryffindor department is Minerva McGonagall" + separator;
         action1.action(dbWorker, question);
         assertEquals(output.toString(), diff);
     }
