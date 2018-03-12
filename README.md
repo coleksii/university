@@ -1,4 +1,4 @@
-# university
+# University
 
 ## You need:
 sql-server to connect wiht application.
