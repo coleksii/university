@@ -4,8 +4,15 @@ import our.best.university.Actions.*;
 import our.best.university.Actions.AbstractAction.Action;
 import our.best.university.logic.Question;
 
+/**
+ * Factory pattern
+ */
 public class FactoryAction {
 
+    /*
+    nobody exactly knows how work GarbageCollector
+    so we save our Actions.class in private fields to save from GC for work time our application
+     */
     private static Action1 action1;
     private static Action2 action2;
     private static Action3 action3;

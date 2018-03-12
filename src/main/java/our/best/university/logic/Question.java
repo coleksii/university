@@ -1,11 +1,21 @@
 package our.best.university.logic;
 
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter
-@Setter
 public class Question {
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getQuestionCode() {
+        return questionCode;
+    }
+
+    public void setQuestionCode(int questionCode) {
+        this.questionCode = questionCode;
+    }
 
     public Question(){
         super();

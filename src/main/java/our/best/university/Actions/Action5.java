@@ -7,7 +7,10 @@ import our.best.university.logic.Question;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
+/**
+ * this class is a singletone pattern
+ * create only once and only if we need do this Action
+ */
 public class Action5 extends Action {
 
     private static volatile Action5 instance;

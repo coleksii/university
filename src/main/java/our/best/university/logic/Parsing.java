@@ -2,11 +2,15 @@ package our.best.university.logic;
 
 public class Parsing {
 
-    private Question question = new Question();
-
+    /**
+     * its looks scary
+     * parsing lines and save correct result in Question
+     */
     public Question analysisLine(String nextLine){
+        Question question = new Question();
         question.setName("");
         question.setQuestionCode(0);
+
         if (nextLine.indexOf("Who is head of department ") == 0){
             question.setQuestionCode(1);
             question.setName(nextLine.substring(26));

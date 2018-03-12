@@ -8,9 +8,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public abstract class Action {
-    //todo выгруать не все данные из БД
     protected String query;
 
+    /**
+     * this method create prepare statement with correctly query and execute it
+     */
     public void action(DBWorker dbWorker, Question question){
         try {
             PreparedStatement statement = dbWorker.getConnection().prepareStatement(query);
@@ -23,6 +25,9 @@ public abstract class Action {
         }
     }
 
+    /**
+     * pulls out result from resultSet
+     */
     protected void printResult(ResultSet resultSet, Question question){
 
     }

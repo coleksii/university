@@ -7,24 +7,22 @@ import our.best.university.FactoryAction;
 import java.util.Scanner;
 
 public class Core {
-    private String nextLine;
-    private Question question;
-    private Parsing parsing;
-    private DBWorker dbWorker;
-    private Action action;
-    private FactoryAction factoryAction;
-
-    public Core(){
-        nextLine = "";
-        parsing = new Parsing();
-        dbWorker = new DBWorker();
-        factoryAction = new FactoryAction();
-
-    }
-
+    /**
+     * Heart of our application
+     * that how it works:
+     * 1)scanner lines
+     * 2)parsing
+     * 3)action(execute and print result)
+     */
     public void start(){
 
+        Question question;
+        Action action;
+        FactoryAction factoryAction = new FactoryAction();
         Scanner scanner = new Scanner(System.in);
+        Parsing parsing = new Parsing();
+        DBWorker dbWorker = new DBWorker();
+        String nextLine = "";
 
         while (!nextLine.equals("END")) {
             nextLine = scanner.nextLine();
