@@ -1,5 +1,9 @@
 package our.best.university.logic;
 
+    /**
+     * clas that save code of action
+     * and name of Department or template for lectors
+     */
 public class Question {
 
     private String name;
